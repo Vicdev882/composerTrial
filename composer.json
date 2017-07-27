@@ -1,0 +1,11 @@
+{
+    "name": "victor/composer-trial",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Victor MGE",
+            "email": "victormge1182@gmail.com"
+        }
+    ],
+    "require": {}
+}

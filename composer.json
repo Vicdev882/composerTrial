@@ -7,5 +7,7 @@
             "email": "victormge1182@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "symfony/console": "^3.3"
+    }
 }

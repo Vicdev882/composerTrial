@@ -2,7 +2,7 @@
 namespace Vicdev882\Persons;
 
 class Victor{
-	public function sayGoodBye(){
-		return "Farewell";
+	public function sayHello(){
+		return "Hi";
 	}
 }

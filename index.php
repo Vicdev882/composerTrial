@@ -1,13 +1,7 @@
 <?php
 
 require __DIR__.'/vendor/autoload.php';
-use Symfony\Component\Console\Application;
 
+$object = new \Vicdev882\Persons\Victor();
 
-$application = new Application();
-
-// ... register commands
-
-$application->run();
-
-echo "Hallo Welt";
+echo $object->sayGoodBye();

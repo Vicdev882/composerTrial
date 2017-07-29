@@ -9,7 +9,7 @@
     ],
     "require": {
         "symfony/console": "^3.3",
-        "victordev882/calculator": "^1.0"
+        "victordev882/calculator": "^2.0"
     },
     "autoload": {
         "psr-4": { "Vicdev882\\": "src/" }
